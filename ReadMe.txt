@@ -1,1 +1,0 @@
-Adeco Sample template
